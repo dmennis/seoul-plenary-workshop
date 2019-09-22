@@ -4,6 +4,9 @@ In this workshop you will build upon an existing web application that enables us
 ## What you'll build:
 You'll start with a java web application is integrated with Yubico's WebAuthn Server libraries to enable FIDO2 security key registration and passwordless authentication. 
 
+![alt text](./images/Java-Serverless-Demo.gif "High Level Components")
+
+
 ## What you'll need:
 * [Git](https://git-scm.com/)
 * [Docker](https://docs.docker.com/install/)
